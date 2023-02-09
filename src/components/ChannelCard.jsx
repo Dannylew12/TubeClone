@@ -39,7 +39,7 @@ const ChannelCard = ({ channelDetail, marginTop }) => (
 				/>
 				<Typography variant='h6'>
 					{channelDetail?.snippet?.title}
-					<CheckCircle sx={{ fontSize: 16, color: 'gray', ml: '5px' }} />
+					<CheckCircle sx={{ fontSize: 18, color: 'gray', ml: '5px' }} />
 				</Typography>
 				{channelDetail?.statistics?.subscriberCount && (
 					<Typography>

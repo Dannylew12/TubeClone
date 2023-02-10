@@ -9,7 +9,3 @@ Image2
 Image3
 
 
-# Tuber_Cloner
-# TubeClone
-# youtube_clone
-# youtube_clone
